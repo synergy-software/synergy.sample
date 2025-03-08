@@ -9,6 +9,7 @@ While not all of these decisions are strictly related to architecture, they are 
 Anyone can create a Pull Request (PR) to propose changes to an existing ADR or introduce a new one.<br/>
 The PR will then be discussed and reviewed by the team and, if approved, merged into the `main` branch.<br/>
 If you have valuable insights that could be captured as an ADR, don't hesitate to share them with us.
+If you have valuable insights that could be captured as an Architecture Decision Record (ADR), don't hesitate to share them with us.
 
 ### ARCHITECTURE
 
