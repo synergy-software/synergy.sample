@@ -16,7 +16,7 @@ Moreover, many decisions made throughout the project's lifecycle are not strictl
 
 All decisions will follow the OODA Loop framework:
 
-![OODA Loop](https://online.visual-paradigm.com/repository/images/70d200a1-bb7f-4ba4-9c57-41e012176f11/ooda-loop-design/ooda-loop-template.png)
+![OODA Loop](https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2533219/dd2a7a72-8c67-11ed-924d-0a115f38d309/optimizations/2097152)
 
 Making decisions is not enough — we must also articulate and document them for future reference.
 
