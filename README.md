@@ -14,3 +14,4 @@ Sample project to demonstrate modern architecture approach
 
 * ▶️ [Synergy Software Architecture YouTube Channel](https://www.youtube.com/channel/UCTildHeLP4HoQVexsdrrHLA)
   * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE)
+  * ▶️ [Architecture Decision Log](https://www.youtube.com/watch?v=td3vERoL_KQ)
