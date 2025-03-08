@@ -10,7 +10,7 @@ Anyone can create a Pull Request (PR) to propose changes to an existing ADR or i
 The PR will then be discussed and reviewed by the team and, if approved, merged into the `main` branch.<br/>
 If you have valuable insights that could be captured as an ADR, don't hesitate to share them with us.
 
-### PROCESS
+### ARCHITECTURE
 
 * [0001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
 
