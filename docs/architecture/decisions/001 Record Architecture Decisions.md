@@ -36,6 +36,6 @@ Q: Which tool is highly recommended and identified best suits to prepare the mar
 
 ## References
 
-* ▶️ [S01E02 Modern Software Architecture - Architecture Decision Log](https://www.youtube.com/watch?v=td3vERoL_KQ&ab_channel=SynergySoftwareArchitecture)
+* ▶️ [S01E02 Architecture Decision Log (Modern Software Architecture)](https://www.youtube.com/watch?v=td3vERoL_KQ&ab_channel=SynergySoftwareArchitecture)
 * 📖 [DOCUMENTING ARCHITECTURE DECISIONS](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 * 📚 [Markdown guidance](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
