@@ -5,12 +5,12 @@ Sample project to demonstrate modern architecture approach
 ## Keywords
 
 > Modern Architecture | Architecture Decision Record | Architecture Decision Log | Docs as Code |
-> Git | GitHub |
 
-![keywords](https://www.plantuml.com/plantuml/png/VO-n2W8n38RtF4LcZxx37Hxee8kw7xKDPy4cagR3lRtr4D75J3zV_doGlfXNoubZzW-03PuN9fqNF4eaPHmqt99HiAe4u1nUHEwb1JVXBjadxEiLeEjmb50piNbBmWrqqmiL70fkct7j_3ZNoZV1aK8gxHeFClzRdoY8HcZJ4yVt2qy0)
+
+
+![keywords](https://www.plantuml.com/plantuml/png/VSwn3i902CRndQTWvYdQs54NVO3cmf5wmu7XwD2t5nCN7Shu8__acqOKZzwqzl8287mSAhuTUBCghZWxFri8n-u2HBWOxrqqIZJJ15e_D70UUCa2aluRMdy45-4siiQhRMVlkx1vXRn9j7udlW40)
 
 ## Online series
 
 * ▶️ [Synergy Software Architecture YouTube Channel](https://www.youtube.com/channel/UCTildHeLP4HoQVexsdrrHLA)
-    * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE)
-    * ▶️ [Architecture Decision Log](https://www.youtube.com/watch?v=td3vERoL_KQ)
+  * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE)
