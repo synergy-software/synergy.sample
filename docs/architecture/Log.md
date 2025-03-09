@@ -13,6 +13,7 @@ If you have valuable insights that could be captured as an Architecture Decision
 ### PROCESS
 
 * [002 Use GitHub repository and tools](decisions/002%20Use%20GitHub%20repository%20and%20tools.md)
+* [003 Use GitHub issue tracker](decisions/003%20Use%20GitHub%20issue%20tracker.md)
 
 ### ARCHITECTURE
 
@@ -20,4 +21,4 @@ If you have valuable insights that could be captured as an Architecture Decision
 
 ## Decisions Break Structure
 
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/JOwn2iCm34HtVyNDdj9-GGA1TkXG0fsBQujMq5X1KeR-VJq4aasWU--kDq_gCzSofoM4Y47pXvtogeIHCXjBnKtUxHTnLybarixun31EwBep7aQui5_N5vGMCNRH7r8jS96lDN2tUjCUwHCcog9b3nnx6njwgcMRzmS0)
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LS_12i8m30RWUvyYvvscli060nKKPEXPQflDecr6aXvyUyVOnDr2yf7ygKGjQmp9HpiOKq3DxXaKNMQ41bsGG0bEr8-p0YvC3aN6ihX3tRHGbbku2S8-w24_W74W2Khy0PiyAD5xXNSJfcxnHv6CS6NhNiZG4S-TiqssnuX9fxDB9isC_-isqA8ZzYlmIot6c0gJdv_x0W00)
