@@ -10,10 +10,14 @@ Anyone can create a Pull Request (PR) to propose changes to an existing ADR or i
 The PR will then be discussed and reviewed by the team and, if approved, merged into the `main` branch.<br/>
 If you have valuable insights that could be captured as an Architecture Decision Record (ADR), don't hesitate to share them with us.
 
+### PROCESS
+
+* [002 Use GitHub repository and tools](decisions/002%20Use%20GitHub%20repository%20and%20tools.md)
+
 ### ARCHITECTURE
 
 * [0001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
 
 ## Decisions Break Structure
 
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/SoWkIImgoStCIybDBE3Yqb9mB4hEo2n9JIujIbLmIKtEBCxCprFmoK_dqj9I22ZAJqujBWOojU8L75s250mC31M2KfFpYrBW-agGDHPpSN4vfEQbGCq70000)
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/JOwn2iCm34HtVyNDdj9-GGA1TkXG0fsBQujMq5X1KeR-VJq4aasWU--kDq_gCzSofoM4Y47pXvtogeIHCXjBnKtUxHTnLybarixun31EwBep7aQui5_N5vGMCNRH7r8jS96lDN2tUjCUwHCcog9b3nnx6njwgcMRzmS0)
