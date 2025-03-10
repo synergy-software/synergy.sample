@@ -9,24 +9,54 @@ Date: 2025-03-06
 
 ## Context
 
-To ensure transparency and continuity, we need to document all architectural decisions made in this project.<br/>
+In software development, architectural decisions have a long-term impact on system design, maintainability, and scalability.
+Without proper documentation, decisions can become unclear over time, leading to inconsistencies, repeated discussions, or deviations from the intended architecture.
+To address this, we need a structured way to document and track architectural decisions.
 Moreover, many decisions made throughout the project's lifecycle are not strictly architectural, yet we still want to document them.
 
 ## Decision
 
-All decisions will follow the OODA Loop framework:
+We will use Architecture Decision Records (ADRs) to document key architectural decisions and maintain an Architecture Decision Log as a centralized index of all recorded decisions.
 
-![OODA Loop](https://campussuite-storage.s3.amazonaws.com/prod/3059/7610d33a-0c90-11e6-b537-22000bd8490f/2533219/dd2a7a72-8c67-11ed-924d-0a115f38d309/optimizations/2097152)
+Justification:
+1. **Transparency & Traceability** – ADRs provide a clear record of why and how architectural decisions were made.
+2. **Consistency** – Ensures that architectural decisions are documented in a uniform and structured format.
+3. **Collaboration & Communication** – Helps team members understand the rationale behind decisions and align on architecture.
+4. **Knowledge Retention** – Prevents loss of architectural knowledge when team members change.
+5. **Change Management** – Provides historical context for revisiting or modifying previous decisions when necessary.
 
-Making decisions is not enough — we must also articulate and document them for future reference.
+## Usage Guidelines
 
-Therefore, we will use Architecture Decision Records (ADRs) along with [Architecture Decisions Log](../Log.md), as described by Michael Nygard in his article: [DOCUMENTING ARCHITECTURE DECISIONS](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+Architecture Decision Records (ADRs):
 
-All records will be stored as [markdown (.md)](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops) files.
+* Each ADR documents a single architectural decision, including context, rationale, consequences, and implementation details.
+* ADRs will be written in Markdown (`.md`) files and stored in the project's repository under `/docs/decisions/` location.
+* The format will follow best practices, typically including:
+  * Context – The problem or situation requiring a decision.
+  * Decision – The choice made and why.
+  * Consequences – The impact and trade-offs of the decision.
+  * Status – Whether the decision is accepted, superseded, or under review.
+
+Architecture Decision Log (ADL):
+* A central document that lists all ADRs, serving as an index for easy navigation.
+* The ADL will be maintained as a Markdown file ([Log.md](../Log.md)) in the repository.
 
 ## Consequences
 
-See Michael Nygard's article, linked above.
+* Positive Outcomes:
+  * Improved documentation and understanding of architectural decisions.
+  * Clear historical record of changes in architecture.
+  * Facilitates decision-making by referencing past considerations and trade-offs.
+* Potential Challenges:
+  * Requires discipline in maintaining and updating ADRs.
+  * Team members need to adopt a habit of documenting decisions consistently.
+
+## Implementation Details
+
+* New architectural decisions must be documented using the ADR format.
+* The Architecture Decision Log must be updated whenever a new ADR is added or modified.
+* ADRs will be reviewed during architecture discussions and technical design meetings.
+* Superseded ADRs will be marked accordingly but retained for historical reference.
 
 ## Q&A
 
