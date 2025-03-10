@@ -13,7 +13,7 @@ If you have valuable insights that could be captured as an Architecture Decision
 ### PROCESS
 
 * [002 Use GitHub repository and tools](decisions/002%20Use%20GitHub%20repository%20and%20tools.md)
-* [003 Use GitHub issue tracker](decisions/003%20Use%20GitHub%20issue%20tracker.md)
+* [003 Utilize GitHub issue tracker](decisions/003%20Utilize%20GitHub%20issue%20tracker.md)
 
 ### ARCHITECTURE
 

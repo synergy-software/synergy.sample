@@ -1,4 +1,4 @@
-﻿# 003. Use of GitHub Issue Tracker for Issue Management
+﻿# 003. Utilize GitHub Issue Tracker for Issue Management
 ![SDLC](https://img.shields.io/badge/SDLC-orange)
 
 Date: 2025-03-09
