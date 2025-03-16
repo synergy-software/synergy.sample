@@ -49,5 +49,5 @@ Justification:
 
 ## References
 
-* ▶️ [S01E03 Use GitHub Issue Tracker (Modern Software Architecture)](https://youtu.be/7S1QSb9skfw)
+* ▶️ [S01E03 Use GitHub Issue Tracker - Modern Software Architecture](https://youtu.be/7S1QSb9skfw) (8:09)
 * 📚 [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
