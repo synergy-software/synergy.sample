@@ -17,8 +17,12 @@ If you have valuable insights that could be captured as an Architecture Decision
 
 ### ARCHITECTURE
 
-* [0001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
+* [001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
+
+### DOCUMENTATION
+
+* [004 Follow Docs as Code practices](decisions/004%20Follow%20Docs%20as%20Code%20principles.md)
 
 ## Decisions Break Structure
 
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LS_12i8m30RWUvyYvvscli060nKKPEXPQflDecr6aXvyUyVOnDr2yf7ygKGjQmp9HpiOKq3DxXaKNMQ41bsGG0bEr8-p0YvC3aN6ihX3tRHGbbku2S8-w24_W74W2Khy0PiyAD5xXNSJfcxnHv6CS6NhNiZG4S-TiqssnuX9fxDB9isC_-isqA8ZzYlmIot6c0gJdv_x0W00)
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LL3BIiH04BpFLzJP45WV7x2BmGSeoEAUPPnfryPaEdHt4Frw9x26pQqeghggUciUrGSkUOXZ21VOQVfafpGfeQF4nbBm9CSGsXQTf6cWuj4hMuds3RjkZytc1dVIz_8zAmpHS2kPC6fCpeaiXAR1Yqg5Lc7pRxl2mGZtx0_JEvH6CNRH7yIIuIBzIdoDWtFFlulXqMmYlDQGBr9yY9wOvrZYaUQUS-wooEkaytkNs5CIpIl1ihbs3big-VIQFm00)
