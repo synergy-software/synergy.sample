@@ -55,5 +55,6 @@ The following types of documentation will be stored and maintained within the Gi
 
 ## References
 
+* ▶️ [S01E04 Follow Docs as Code approach - Modern Software Architecture](https://youtu.be/pv0rfyymEwY) (7:27)
 * 📖 [Understanding Docs-as-Code](https://medium.com/@EjiroOnose/understanding-docs-as-code-01b8c7644e23#:~:text=Docs%2Das%2DCode%20is%20a,developers%20use%20for%20writing%20code.)
 * 📚 [Markdown guidance](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
