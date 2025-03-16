@@ -46,5 +46,5 @@ Justification:
 
 ## References
 
-* ▶️ [S01E02 Use GitHub for Version Control (Modern Software Architecture)](https://youtu.be/YZxJj41nQ7A)
+* ▶️ [S01E02 Use GitHub for Version Control - Modern Software Architecture](https://youtu.be/YZxJj41nQ7A) (5:46)
 * 📚 [Git Handbook](https://guides.github.com/introduction/git-handbook/)
