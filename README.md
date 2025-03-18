@@ -4,7 +4,7 @@ Sample project to demonstrate modern architecture approach
 
 ## Architecture
 
-To familiarize yourself with the architectural concepts of this sample project, check out the [Architecture Decision Log](docs/architecture/Log.md) 
+To familiarize yourself with the architectural concepts of this sample project, check out the [Architecture Decision Log](docs/architecture/Architecture%20Decision%20Log.md) 
 
 ## Keywords
 
