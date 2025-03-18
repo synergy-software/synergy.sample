@@ -8,7 +8,9 @@ To familiarize yourself with the architectural concepts of this sample project, 
 
 ## Keywords
 
-> Modern Architecture | Architecture Decision Record | Architecture Decision Log | Docs as Code |
+> Modern Architecture | 
+> Architecture Decision Record | Architecture Decision Log | 
+> Docs as Code |
 > Version Control System | Git | GitHub | 
 > Issue tracker | GitHub Issue Tracker |
 
