@@ -19,7 +19,8 @@ To familiarize yourself with the architectural concepts of this sample project, 
 ## Online series
 
 * ▶️ [Synergy Software Architecture YouTube Channel](https://www.youtube.com/channel/UCTildHeLP4HoQVexsdrrHLA)
-  * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE)
-  * ▶️ [Architecture Decision Log](https://www.youtube.com/watch?v=td3vERoL_KQ)
-  * ▶️ [Use GitHub for Version Control](https://youtu.be/YZxJj41nQ7A)
-  * ▶️ [Use GitHub Issue Tracker](https://youtu.be/7S1QSb9skfw)
+  * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE) (5:20)
+  * ▶️ [Architecture Decision Log](https://www.youtube.com/watch?v=td3vERoL_KQ) (9:39)
+  * ▶️ [Use GitHub for Version Control](https://youtu.be/YZxJj41nQ7A) (5:46)
+  * ▶️ [Use GitHub Issue Tracker](https://youtu.be/7S1QSb9skfw) (8:09)
+  * ▶️ [Follow Docs as Code approach](https://youtu.be/pv0rfyymEwY) (7:27)
