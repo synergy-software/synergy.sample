@@ -22,7 +22,8 @@ If you have valuable insights that could be captured as an Architecture Decision
 ### DOCUMENTATION
 
 * [004 Follow Docs as Code practices](decisions/004%20Follow%20Docs%20as%20Code%20principles.md)
+* [005 Adopt PlantUML as the Primary Diagramming Engine](decisions/005%20Adopt%20PlantUML%20as%20the%20Primary%20Diagramming%20Engine.md)
 
 ## Decisions Break Structure
 
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LL3BIiH04BpFLzJP45WV7x2BmGSeoEAUPPnfryPaEdHt4Frw9x26pQqeghggUciUrGSkUOXZ21VOQVfafpGfeQF4nbBm9CSGsXQTf6cWuj4hMuds3RjkZytc1dVIz_8zAmpHS2kPC6fCpeaiXAR1Yqg5Lc7pRxl2mGZtx0_JEvH6CNRH7yIIuIBzIdoDWtFFlulXqMmYlDQGBr9yY9wOvrZYaUQUS-wooEkaytkNs5CIpIl1ihbs3big-VIQFm00)
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LP3BQWCn34Nt_egxRWYaZ-uJEdqK4WYXMHVLeqv4nzOWQoZjrzS3QKXsvlhe2DrbSJ9Fajj4GmXNM5ayY7CSZT5mb2AQiTOkXFaSZSOnSNRocjPW_evLiyDYSOSdxNlzdeW2AdZGbZ4OHPV8vHoznwhLmR7jAVj-ivveFp2s9edi1urGPvIIv0wFkPFC8SnczLkhgDJdxDzqWtrXF8k_Z1ym7hI8QpLGRk6g_GLyYxrBBx-dWTTIHiQRKVnYmwVQCTbGfewdAwUzfpvyD3xtNMF7KQsz04wDbH32adDxBFOF)
