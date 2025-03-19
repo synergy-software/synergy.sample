@@ -1,6 +1,6 @@
 ﻿# 002. Use GitHub repository and tools for Version Control
 ![SDLC](https://img.shields.io/badge/SDLC-orange) 
-![Toolbox](https://img.shields.io/badge/Toolbox-blue)
+![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
 Date: 2025-03-08
 
