@@ -10,11 +10,11 @@ To familiarize yourself with the architectural concepts of this sample project, 
 
 > Modern Architecture | 
 > Architecture Decision Record | Architecture Decision Log | 
-> Docs as Code |
+> Docs as Code | PlantUML | Diagrams as Code |
 > Version Control System | Git | GitHub | 
 > Issue tracker | GitHub Issue Tracker |
 
-![keywords](https://www.plantuml.com/plantuml/png/VP11IySm3CNl-HGvE_eTDXoee20gNaTjmookZIJfOT_UsWdkV_dtLDxl9U-HKSsBvLHYzjy0D_Yw5v9rnoUE90Kd2P_9A5WL0d0EduK3gRQlM_2TH1CNlELYmbiRLgCChiExP8VhGRKIclZmHV8Fx-l7WRGlVcFU54uGO1Xmvb0p5VFMSfemBB-IugGjD5Btd3jsouM2CuNKMpxoUWs_K629qDv89VwTv0S0)
+![keywords](https://www.plantuml.com/plantuml/png/VP3FQiCm3CRlUWgT5_8EBIjiWnRA_knQD5jaPh4q9ENGjv-N19PTwfFu_JuRVzfva4KjaYjz0zpXorNOXYkUDBC9xYrzbk0Kap50t-FPDB5x6_iBlhDvKS5xbJ0TssKFhj3Fyg74adfodnZ3A7sn_Sd7wMDHFZ_ygZewREGodqUIU3iT0ReE3vgcoX8KHQM1xlAB7FVUlf1v9OK6e-f8AstuNuybjYLuu5Jc9aSTRkbdJcePsjcnv7LjFm00)
 
 ## Online series
 
