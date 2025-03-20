@@ -4,14 +4,14 @@ Sample project to demonstrate modern architecture approach
 
 ## Architecture
 
-To familiarize yourself with the architectural concepts of this sample project, check out the [Architecture Decision Log](docs/architecture/Architecture%20Decision%20Log.md) 
+To familiarize yourself with the architectural concepts of this sample project, check out the [Architecture Decision Log](docs/architecture/Architecture%20Decision%20Log.md)
 
 ## Keywords
 
-> Modern Architecture | 
-> Architecture Decision Record | Architecture Decision Log | 
+> Modern Architecture |
+> Architecture Decision Record | Architecture Decision Log |
 > Docs as Code | PlantUML | Diagrams as Code |
-> Version Control System | Git | GitHub | 
+> Version Control System | Git | GitHub |
 > Issue tracker | GitHub Issue Tracker |
 
 <!--
