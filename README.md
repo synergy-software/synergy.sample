@@ -14,7 +14,34 @@ To familiarize yourself with the architectural concepts of this sample project, 
 > Version Control System | Git | GitHub | 
 > Issue tracker | GitHub Issue Tracker |
 
-![keywords](https://www.plantuml.com/plantuml/png/VP3FQiCm3CRlUWgT5_8EBIjiWnRA_knQD5jaPh4q9ENGjv-N19PTwfFu_JuRVzfva4KjaYjz0zpXorNOXYkUDBC9xYrzbk0Kap50t-FPDB5x6_iBlhDvKS5xbJ0TssKFhj3Fyg74adfodnZ3A7sn_Sd7wMDHFZ_ygZewREGodqUIU3iT0ReE3vgcoX8KHQM1xlAB7FVUlf1v9OK6e-f8AstuNuybjYLuu5Jc9aSTRkbdJcePsjcnv7LjFm00)
+<!--
+```plantuml
+@startmindmap
+
+* Synergy Modern Architecture
+
+-- Process
+---_ Version Control System
+----_ Git
+---_ Issue tracker
+----_ GitHub Issues
+
+-- Tools
+---_ GitHub
+---_ PlantUML
+
+++ Documentation
++++_ Docs As Code
++++_ Diagrams as Code
+
+++ Architecture
++++_ Architecture Decision Log
++++_ Architecture Decision Record
+
+@endmindmap
+```
+-->
+![keywords mind map](https://www.plantuml.com/plantuml/png/V91D2W8n38NtWdV8sc7ke2Yee23-RQLsmbYSDf9a5fxDXKVo2hOT1tJZhdtVoylFw_4SYnfMxqBbpMqu60v6iBi7vFeEQwgG0qpONfoYrPOn6SeIDamMHTAxFC4HMHm5c59GfYRMYwBFCDAvquzlAT8YA1jxHVx2Y_RSiHYOu_T4JH_UySzdqvYWX_Kg-Oe2PcHRZq6DnlP9AKv94vX87AQAqtQICpKRBs1wELV_xfMTtnBCqBgyruhgltoBbhXAgMECP-nF-GO00F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Online series
 
