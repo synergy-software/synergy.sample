@@ -40,9 +40,29 @@ Justification:
   * Alternative rendering can be done using local PlantUML tools or integrated Markdown processors.
 * All documentation containing diagrams will be stored in the project's Git repository to maintain version control.
 
+## Sample
+
+To embed PlantUML diagram into any markdown document in this project,
+just insert such comment (sample below) and run [Docs.cs](../../src/Docs.cs) test.
+
+````
+<!--
+```plantuml
+@startjson
+{
+"fruit":"Apple",
+"size":"Large",
+"color": ["Red", "Green"]
+}
+@endjson
+```
+-->
+![diagram](https://www.plantuml.com/plantuml/png/UhzxlqDnIM9HILPnVXulLpKlbr9QKMbcYPALacD1GKwgaWvGf3YpAXKeu9DOb0uHICxFoIzIibA8LWfAJL7IKL1oBqfDpLEAvUMgvULoICrBWPW60000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
+````
+
 ## References
 
 * ▶️ [S01E04 Adopt PlantUML as the Primary Diagramming Engine - Modern Software Architecture](https://youtu.be/x99410rf_nE) (7:26)
+* [//]: # (TODO Add link to second video here)
 * 📚 [PlantUML](https://plantuml.com/)
-* 📖 [Example project showing how to use PlantUML and embed UML diagrams into a GitHub markdown](https://github.com/jonashackt/plantuml-markdown/blob/master/README.md) - check this alternative way of embedding PlantUML diagrams into your markdown files
 * 📖 [Include diagrams in your Markdown files with Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) - alternative diagramming language for Markdown
