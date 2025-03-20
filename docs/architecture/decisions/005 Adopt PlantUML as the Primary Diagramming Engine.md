@@ -1,4 +1,4 @@
-﻿# 005. Adopt PlantUML as the Primary Diagramming Engine
+# 005. Adopt PlantUML as the Primary Diagramming Engine
 ![Docs as Code](https://img.shields.io/badge/Docs_as_Code-blue)
 ![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
@@ -42,6 +42,7 @@ Justification:
 
 ## References
 
+* ▶️ [S01E04 Adopt PlantUML as the Primary Diagramming Engine - Modern Software Architecture](https://youtu.be/x99410rf_nE) (7:26)
 * 📚 [PlantUML](https://plantuml.com/)
 * 📖 [Example project showing how to use PlantUML and embed UML diagrams into a GitHub markdown](https://github.com/jonashackt/plantuml-markdown/blob/master/README.md) - check this alternative way of embedding PlantUML diagrams into your markdown files
 * 📖 [Include diagrams in your Markdown files with Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) - alternative diagramming language for Markdown
