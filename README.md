@@ -24,3 +24,4 @@ To familiarize yourself with the architectural concepts of this sample project, 
   * ▶️ [Use GitHub for Version Control](https://youtu.be/YZxJj41nQ7A) (5:46)
   * ▶️ [Use GitHub Issue Tracker](https://youtu.be/7S1QSb9skfw) (8:09)
   * ▶️ [Follow Docs as Code approach](https://youtu.be/pv0rfyymEwY) (7:27)
+  * ▶️ [Adopt PlantUML as the Primary Diagramming Engine](https://youtu.be/x99410rf_nE) (7:26)
