@@ -1,4 +1,4 @@
-﻿# Decisions log
+# Decisions log
 
 Below are the decisions made throughout the course of the project, along with those that need to be made (or discarded) in the future.<br/>
 The decision-making process is not linear, so the list is organized in a way that can be read from top to bottom.<br/>
@@ -26,4 +26,24 @@ If you have valuable insights that could be captured as an Architecture Decision
 
 ## Decisions Break Structure
 
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/LP3BQWCn34Nt_egxRWYaZ-uJEdqK4WYXMHVLeqv4nzOWQoZjrzS3QKXsvlhe2DrbSJ9Fajj4GmXNM5ayY7CSZT5mb2AQiTOkXFaSZSOnSNRocjPW_evLiyDYSOSdxNlzdeW2AdZGbZ4OHPV8vHoznwhLmR7jAVj-ivveFp2s9edi1urGPvIIv0wFkPFC8SnczLkhgDJdxDzqWtrXF8k_Z1ym7hI8QpLGRk6g_GLyYxrBBx-dWTTIHiQRKVnYmwVQCTbGfewdAwUzfpvyD3xtNMF7KQsz04wDbH32adDxBFOF)
+<!--
+```plantuml
+@startmindmap
+
+* Architecture Decision Log
+
+-- Documentation
+---_ ADR 004 Follow Docs as Code practices
+---_ ADR 005 Adopt PlantUML as the Primary Diagramming Engine
+
+++ Process
++++_ ADR 002 Use GitHub repository and tools
++++_ ADR 003 Utilize GitHub Issue Tracker for Issue Management
+
+++ Architecture
++++_ ADR 001 Record Architecture Decisions
+
+@endmindmap
+```
+-->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R93DQiD038Jl0R_3d6iCwTyzfkuV9112VIxgMd54xPNPbIdjg_NGH-ehT0r9gQ7NqQSPQRu_lrRHA5Wllkbfo1RPuWnbS0SnTZO6HiLEegZ7MjjfN1Ier8qzUoDB-gGKpoYh7PRBAznfr-dRX4HGn8qsZ26GCt4SP-mroaO7mxOZR_LcFU5sO6o3z1JUKGcrWVfqMOjRtuhdAJxF4w39AvdbUNuokq0T6VTY3-CB0WyQnJIPa6zWgjsSlaHjqid7xyPZZ2FZATtvoW5x3KTbGvvQdduzPl-jPcPvZXqx3St_vQNuRB7YrF6fvny0003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
