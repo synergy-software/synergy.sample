@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Synergy.Sample.Documentation</AssemblyName>
+        <RootNamespace>Synergy.Sample.Documentation</RootNamespace>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Include="..\README.md">
+            <Link>README.md</Link>
+        </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="xunit" Version="2.9.3"/>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.13.0"/>
+        <PackageReference Include="Synergy.Architecture.Diagrams" Version="3.0.12"/>
+        <PackageReference Include="Synergy.Documentation" Version="3.0.12"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Include="..\Root.cs">
+            <Link>src\Root.cs</Link>
+        </Compile>
+    </ItemGroup>
+
+</Project>
