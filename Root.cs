@@ -9,7 +9,7 @@ public static class Root
     /// This property holds the path to the current working directory on the hard drive.
     /// </summary>
     public static readonly CodeFolder Folder = CodeFolder.Current();
-    
+
     /// <summary>
     /// Represents the solution file for the Synergy.Framework project.
     /// This property contains the path to the 'Synergy.Framework.sln' file located within the root folder on the hard drive.
