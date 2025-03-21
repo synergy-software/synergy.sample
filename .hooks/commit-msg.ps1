@@ -39,6 +39,7 @@ else{
         $prefix = ""
         foreach ($hashtag in $hashtags) {
             $prefix = $prefix + $hashtag.groups[0].value + " "
+            Write-Host $hashtag
         }
 
 		$prefix + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
