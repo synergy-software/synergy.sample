@@ -38,7 +38,7 @@ else{
         $hashtags = [regex]::Matches($commitMsg, "(#\w+)")
         $prefix = ""
         foreach ($hashtag in $hashtags) {
-            prefix = prefix + $hashtag.groups[0].value + " "
+            $prefix = $prefix + $hashtag.groups[0].value + " "
         }
 
 		$prefix + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
