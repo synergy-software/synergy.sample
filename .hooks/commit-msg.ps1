@@ -35,7 +35,7 @@ else{
 	}
 	else
 	{
-        $hashtags = [regex]::Matches($commitMsg, "(#\w+)")
+        $hashtags = ([regex]("(#\w+)")).matches($commitMsg)
         $prefix = ""
         foreach ($hashtag in $hashtags) {
             $prefix = $prefix + $hashtag.groups[0].value + " "
