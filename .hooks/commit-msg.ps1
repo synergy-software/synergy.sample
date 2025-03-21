@@ -35,7 +35,7 @@ else{
 	}
 	else
 	{
-        $hashtags = ([regex]("(#\w+)")).matches($commitMsg)
+        $hashtags = ([regex]("(#\w+)")).matches($branch)
         $prefix = ""
         foreach ($hashtag in $hashtags) {
             $prefix = $prefix + $hashtag.groups[0].value + " "
