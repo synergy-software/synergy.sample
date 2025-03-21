@@ -42,6 +42,6 @@ else{
             Write-Host $hashtag
         }
 
-		$prefix + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
+		$prefix.Trim() + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
 	}
 }
