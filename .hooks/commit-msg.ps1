@@ -41,6 +41,6 @@ else{
             prefix = prefix + $hashtag.Value + " "
         }
 
-		prefix + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
+		$prefix + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
 	}
 }
