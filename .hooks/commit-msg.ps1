@@ -37,9 +37,11 @@ else{
 	else
 	{
         $hashtags = ([regex]("($hashtagPattern)")).matches($branch)
+        $hashtagList = foreach ($match in $hashtags) { $match.groups[0].value }
+        $sortedHashtags = $hashtagList | Sort-Object
         $prefix = ""
-        foreach ($hashtag in $hashtags) {
-            $prefix = $prefix + $hashtag.groups[0].value + " "
+        foreach ($hashtag in $sortedHashtags) {
+            $prefix = $prefix + $hashtag + " "
         }
 
 		$prefix.Trim() + ": " + (Get-Content $commitMsgFile -Raw) | Set-Content $commitMsgFile
