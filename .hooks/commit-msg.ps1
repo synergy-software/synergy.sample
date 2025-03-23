@@ -17,11 +17,11 @@ if(!($branch -match $issuePattern))
 	}
 	else
 	{
-		Write-Host "!!!!!!!!!!!!! Commit message MUST contain issue number !!!!!!!!!!!!!" 
+		Write-Host "!!!!!!!!!!!!! Commit message MUST contain issue number in form of hashtag (like #1234) !!!!!!!!!!!!!" 
 		exit 1
 	}
 }
-else{
+else {
 	$taskNo = ([regex]("($issuePattern)")).matches($branch)[0].groups[0].value
 
 	if($commitMsg -match $issuePattern)
@@ -29,7 +29,7 @@ else{
 		$taskNoInCommit = ([regex]("($issuePattern)")).matches($commitMsg)[0].groups[1].value
 		if(!$taskNoInCommit.equals($taskNo))
 		{
-			Write-Host "!!!!!!!!!!!!! Branch issue number #$taskNo is not the same as commit number #$taskNoInCommit !!!!!!!!!!!!!"
+			Write-Host "!!!!!!!!!!!!! Branch issue number $taskNo is not the same as commit number $taskNoInCommit !!!!!!!!!!!!!"
 			exit 0;
 		}
 		exit 0
