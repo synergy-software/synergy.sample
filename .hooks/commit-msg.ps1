@@ -7,6 +7,7 @@ $branch = git rev-parse --abbrev-ref HEAD
 Write-Host "Current branch: "$branch 
 $commitMsg = (Get-Content $commitMsgFile -Raw)
 $issuePattern = "#[0-9]+"
+$hashtagPattern = "#\w+"
 
 if(!($branch -match $issuePattern))
 {
@@ -16,7 +17,7 @@ if(!($branch -match $issuePattern))
 	}
 	else
 	{
-		Write-Host "!!!!!!!!!!!!! Commit MUST contain issue number !!!!!!!!!!!!!" 
+		Write-Host "!!!!!!!!!!!!! Commit message MUST contain issue number !!!!!!!!!!!!!" 
 		exit 1
 	}
 }
@@ -35,7 +36,7 @@ else{
 	}
 	else
 	{
-        $hashtags = ([regex]("(#\w+)")).matches($branch)
+        $hashtags = ([regex]("($hashtagPattern)")).matches($branch)
         $prefix = ""
         foreach ($hashtag in $hashtags) {
             $prefix = $prefix + $hashtag.groups[0].value + " "
