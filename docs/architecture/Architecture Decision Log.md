@@ -35,25 +35,25 @@ don't hesitate to share them with us.
 
 <!--
 ```plantuml
-@startmindmap
+@startwbs
 
 * Architecture Decision Log
 
 -- Documentation
----_ ADR 004 Follow Docs as Code practices
----_ ADR 005 Adopt PlantUML as the Primary Diagramming Engine
+--- ADR 004 Follow Docs as Code practices
+--- ADR 005 Adopt PlantUML as the Primary Diagramming Engine
 
 -- Development
----_ ADR 006 Bind each commit to a work item
+--- ADR 006 Bind each commit to a work item
 
 ++ Process
-+++_ ADR 002 Use GitHub repository and tools
-+++_ ADR 003 Utilize GitHub Issue Tracker for Issue Management
++++ ADR 002 Use GitHub repository and tools
++++ ADR 003 Utilize GitHub Issue Tracker for Issue Management
 
 ++ Architecture
-+++_ ADR 001 Record Architecture Decisions
++++ ADR 001 Record Architecture Decisions
 
-@endmindmap
+@endwbs
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BJiD03DrNwXtUcYXI-QvR23-fbQgAhf4xCUceoJYQSQZWQYmu4bV00Og8nDP-N_lZxNsQbA8sFfGDjUFHU7I4MNHRh-oqYuo2dKzU0kPIzUiyHo6kQpWegStxIVw8MR72P7A66wbhsVUG14guafBHHdBg7QS1zXopKbh5igQWwyMyX-kMiOo-eVY2mbCLgR5a5Qv3vGCVxFcPQsdx10F12rnQ2p2vBPmOKQ42mbxY3jQdwVbPPWPYMInCbcK7xWdMYN7hzQxR878hoQjO23915Qc7w5EirTV-zPTndrB7UB2UEuvualWpML2WYh-JVdd_FUr0yXWhTXBB_uzlzkFHbEr7Xpzz0W00__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BJiD03DrNwXtUcgXI-QvR23-fbQgA7i2TcDHgCevc72gu6WkEn1MOf822n7BUl9_jp_UFMJGATjZ6yMWyEi4yk9qOEsi38sSdKTHZeMNtFPaWLzVMx8qiuHqomJnVOpgzm9rMbHuwHWH5t6Z1Q08v4yTnIBt4lD36iAh8ssQvwDYsOwo2r1HUaGkLWUfQV8bRNuhddt1-uKgRBd_eTuLhyGMOt0vEayvW2i91mnvfcBgJPrdorzGaLSdIuoWzmoOoxiKUsYq2Dnh5D5MWv6UgrH_oEJOcbRpz2XvZR1bFQSOz1pnh-4QMvAdaOyq-URZLeUCfrkmq5F-llJ_9Z7tHN-SB003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
