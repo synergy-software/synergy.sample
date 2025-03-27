@@ -62,7 +62,7 @@ just insert such comment (sample below) and run [Docs.cs](../../src/Docs.cs) tes
 
 ## References
 
-* ▶️ [S01E04 Adopt PlantUML as the Primary Diagramming Engine - Modern Software Architecture](https://youtu.be/x99410rf_nE) (7:26)
-* ▶️ [S01E05 Embed PlantUML diagrams in markdown - Modern Software Architecture](https://youtu.be/i2aXJNo7owo) (9:09)
+* ▶️ [S01E05 Adopt PlantUML as the Primary Diagramming Engine - Modern Software Architecture](https://youtu.be/x99410rf_nE) (7:26)
+* ▶️ [S01E06 Embed PlantUML diagrams in markdown - Modern Software Architecture](https://youtu.be/i2aXJNo7owo) (9:09)
 * 📚 [PlantUML](https://plantuml.com/)
 * 📖 [Include diagrams in your Markdown files with Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) - alternative diagramming language for Markdown
