@@ -12,7 +12,7 @@ check out the [Architecture Decision Log](docs/architecture/Architecture%20Decis
 > Modern Architecture |
 > Architecture Decision Record | Architecture Decision Log |
 > Docs as Code | PlantUML | Diagrams as Code |
-> Version Control System | Git | GitHub |
+> Version Control System | Git | GitHub | Git hooks |
 > Issue tracker | GitHub Issue Tracker |
 
 <!--
@@ -29,6 +29,7 @@ check out the [Architecture Decision Log](docs/architecture/Architecture%20Decis
 
 -- Tools
 ---_ GitHub
+---_ Git hooks
 ---_ PlantUML
 
 ++ Documentation
@@ -42,7 +43,7 @@ check out the [Architecture Decision Log](docs/architecture/Architecture%20Decis
 @endmindmap
 ```
 -->
-![keywords mind map](https://www.plantuml.com/plantuml/png/V91D2W8n38NtWdV8sc7ke2Yee23-RQLsmbYSDf9a5fxDXKVo2hOT1tJZhdtVoylFw_4SYnfMxqBbpMqu60v6iBi7vFeEQwgG0qpONfoYrPOn6SeIDamMHTAxFC4HMHm5c59GfYRMYwBFCDAvquzlAT8YA1jxHVx2Y_RSiHYOu_T4JH_UySzdqvYWX_Kg-Oe2PcHRZq6DnlP9AKv94vX87AQAqtQICpKRBs1wELV_xfMTtnBCqBgyruhgltoBbhXAgMECP-nF-GO00F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
+![keywords mind map](https://www.plantuml.com/plantuml/png/V91DZi8m38NtIDp1QwhU0GGIWmHInTyMXTGg4KsCR7V1sLXm9Av0aaurp8PTyhxdfsU_7i-fg67rBjJUtCQZyMW2ktj0RkwmeHevm8pjnIbQxHYJeIoXOh8eajxb2Ox8uYZ0d88ojN5U57s6aIwT_lfM8Xs2ih5Nv0_yqvrx5WDp_9we7S9x_lU12z5rW5LhWXuswpHN5B0WstaCQZJMIKfnIfh0J6AvEhRl9MSQDbx037AU_hzdTdvAi43hyfvhQhxoBLhYEgLECPvrEEqR003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Online series
 
