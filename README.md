@@ -55,3 +55,4 @@ check out the [Architecture Decision Log](docs/architecture/Architecture%20Decis
   * ▶️ [Follow Docs as Code approach](https://youtu.be/pv0rfyymEwY) (7:27)
   * ▶️ [Adopt PlantUML as the Primary Diagramming Engine](https://youtu.be/x99410rf_nE) (7:26)
   * ▶️ [Embed PlantUML diagrams in markdown](https://youtu.be/i2aXJNo7owo) (9:09)
+  * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
