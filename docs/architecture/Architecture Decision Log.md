@@ -27,6 +27,10 @@ don't hesitate to share them with us.
 * [004 Follow Docs as Code practices](decisions/004%20Follow%20Docs%20as%20Code%20principles.md)
 * [005 Adopt PlantUML as the Primary Diagramming Engine](decisions/005%20Adopt%20PlantUML%20as%20the%20Primary%20Diagramming%20Engine.md)
 
+### DEVELOPMENT
+
+* [006 Bind each commit to a work item](decisions/006%20Bind%20each%20commit%20to%20a%20work%20item.md)
+
 ## Decisions Break Structure
 
 <!--
@@ -39,6 +43,9 @@ don't hesitate to share them with us.
 ---_ ADR 004 Follow Docs as Code practices
 ---_ ADR 005 Adopt PlantUML as the Primary Diagramming Engine
 
+-- Development
+---_ ADR 006 Bind each commit to a work item
+
 ++ Process
 +++_ ADR 002 Use GitHub repository and tools
 +++_ ADR 003 Utilize GitHub Issue Tracker for Issue Management
@@ -49,4 +56,4 @@ don't hesitate to share them with us.
 @endmindmap
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R93DQiD038Jl0R_3d6iCwTyzfkuV9112VIxgMd54xPNPbIdjg_NGH-ehT0r9gQ7NqQSPQRu_lrRHA5Wllkbfo1RPuWnbS0SnTZO6HiLEegZ7MjjfN1Ier8qzUoDB-gGKpoYh7PRBAznfr-dRX4HGn8qsZ26GCt4SP-mroaO7mxOZR_LcFU5sO6o3z1JUKGcrWVfqMOjRtuhdAJxF4w39AvdbUNuokq0T6VTY3-CB0WyQnJIPa6zWgjsSlaHjqid7xyPZZ2FZATtvoW5x3KTbGvvQdduzPl-jPcPvZXqx3St_vQNuRB7YrF6fvny0003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BJiD03DrNwXtUcYXI-QvR23-fbQgAhf4xCUceoJYQSQZWQYmu4bV00Og8nDP-N_lZxNsQbA8sFfGDjUFHU7I4MNHRh-oqYuo2dKzU0kPIzUiyHo6kQpWegStxIVw8MR72P7A66wbhsVUG14guafBHHdBg7QS1zXopKbh5igQWwyMyX-kMiOo-eVY2mbCLgR5a5Qv3vGCVxFcPQsdx10F12rnQ2p2vBPmOKQ42mbxY3jQdwVbPPWPYMInCbcK7xWdMYN7hzQxR878hoQjO23915Qc7w5EirTV-zPTndrB7UB2UEuvualWpML2WYh-JVdd_FUr0yXWhTXBB_uzlzkFHbEr7Xpzz0W00__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
