@@ -9,6 +9,12 @@ check out the [Architecture Decision Log](docs/architecture/Architecture%20Decis
 
 ## Keywords
 
+This section provides an overview of key terms and keywords commonly used in the project.
+Understanding these concepts is crucial for effective communication among team members and stakeholders,
+as well as for adhering to best practices in software engineering. 
+The chapter outlines essential terminology across various domains, 
+including software architecture, coding practices, project management, and development methodologies.
+
 > Modern Architecture |
 > Architecture Decision Record | Architecture Decision Log |
 > Docs as Code | PlantUML | Diagrams as Code |
