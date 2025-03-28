@@ -1,4 +1,4 @@
-﻿# 006. Bind every commit in the repository to a work item
+# 006. Bind every commit in the repository to a work item
 ![Development](https://img.shields.io/badge/Development-lightgreen)
 ![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
@@ -24,30 +24,50 @@ It will be automated by using local git hook on each developer machine.
 
 To register the hook (locally) simply run (on Windows) [install.bat](../../../.hooks/install.bat) script.
 
-and use branch naming conventions:
+and follow branch naming conventions:
 
 ```
-#feature\#1234-some-feature-branch-description
-#bug\#1234-some-fix-branch-description
-#docs\#1234-some-fix-branch-description
+#feature/#1234-some-feature-branch-description
+#bug/#1234-some-fix-branch-description
+#docs/#1234-some-fix-branch-description
 ```
 
 The hook automatically gets the work item number from the branch name and silently adds it at the commit description beginning (along with other hashtags found in branch name):
 
 ```
-#1234 #docs: Commit ordinary description
+#1234 #docs: Commit original description
 ```
 
-This number can be also added manually to the commit description
+This `#number` (and any other `#hashtag`) can be also added manually to the commit description
 
-Moreover, the team can use set of well known and common #hashtags in the branch names to automatically add them to the commit description. E.g.:
+### Hashtags
 
+Moreover, the team should use set of well known and common #hashtags in the branch names to automatically (or manually) add them to the commit description. E.g.:
+
+<!--
+```plantuml
+@startmindmap
+* Hash tags
+++[#Orange] <U+0023>feature
++++_ A new feature
+++[#brown] <U+0023>bug
++++_ A bug fix
+++[#lightgreen] <U+0023>docs
++++_ Documentation only changes
+-- <U+0023>refactor
+---_ A code change that neither fixes a bug nor adds a feature
+-- <U+0023>test
+---_ Adding missing tests or correcting existing tests
+-- <U+0023>build
+---_ Changes that affect the build system
+-- <U+0023>cleanup
+---_ Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+-- <U+0023>performance
+---_ A code change that improves performance
+@endmindmap
 ```
-#docs
-#feature
-#bug
-#refactoring
-```
+-->
+![diagram](https://www.plantuml.com/plantuml/png/R9B1JiCm38RlI7i7Ixi0NQK9hWWDmO4R9quJGbxYjf6Qk8fTjZqR1nw9Lo3fjh8AJati___pnSttvzTA5ADw5wp7RdPn3Sye3IZMChieYlNy9MAewGtkNelbykRslYBKFb9k5k_m086sS5PRppUHj-5Nl-dhKPlMKBdTGTUwkj4w4fs9BHivgf_Oz9w2eZeEmA7TWsaoIXAKvUY8LA5HZhbOvZCCMpegGHlK1EYqePWF9W4S8097G6lpTcG_2rKIFGLQwq8DtedaR-u89BVX6Cbehj7EYOxDIT2cTwqz9ZqUw0zGM5N9dTQKU986P2zAVc8sBM7eqp_vQxUShZ19yKcR6RWQjiCKBhUDKogbGqCBg3Xwr0ow6AyZv5rfkEKW2o0rLnE0Zk9W2cOOp__ZTRwB_9709keLfVTqUbC_0000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Consequences
 
@@ -60,11 +80,7 @@ Moreover, the team can use set of well known and common #hashtags in the branch 
 * Potential Challenges:
   * Developers are forced to follow branch naming conventions (with hook installed) or to add the work item numbers manually to every commit
 
-## Alternatives
-
-Alternatively we could use conventional commits - https://www.conventionalcommits.org <br/>
-But it requires more effort from developers (committers) and do not allow to control versioning of the generated changelog.
-
 ## References
 
 * ▶️ [S01E07 Bind every commit in the repository to a work item - Modern Software Architecture](https://youtu.be/-6X551gnXR0) (10:43)
+* Alternatively we could use conventional commits - https://www.conventionalcommits.org
