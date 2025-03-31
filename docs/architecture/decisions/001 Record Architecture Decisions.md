@@ -1,5 +1,6 @@
 # 001. Record architecture decisions
 ![Docs as Code](https://img.shields.io/badge/Docs_as_Code-blue)
+![Architecture](https://img.shields.io/badge/Architecture-darkviolet)
 
 Date: 2025-03-06
 
