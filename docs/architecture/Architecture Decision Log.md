@@ -21,6 +21,7 @@ don't hesitate to share them with us.
 ### ARCHITECTURE
 
 * [001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
+* [007 Follow Walking Skeleton Approach](decisions/007%20Follow%20Walking%20Skeleton%20approach.md)
 
 ### DOCUMENTATION
 
@@ -52,8 +53,9 @@ don't hesitate to share them with us.
 
 ++ Architecture
 +++ ADR 001 Record Architecture Decisions
++++ ADR 007 Follow Walking Skeleton Approach
 
 @endwbs
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BJiD03DrNwXtUcgXI-QvR23-fbQgA7i2TcDHgCevc72gu6WkEn1MOf822n7BUl9_jp_UFMJGATjZ6yMWyEi4yk9qOEsi38sSdKTHZeMNtFPaWLzVMx8qiuHqomJnVOpgzm9rMbHuwHWH5t6Z1Q08v4yTnIBt4lD36iAh8ssQvwDYsOwo2r1HUaGkLWUfQV8bRNuhddt1-uKgRBd_eTuLhyGMOt0vEayvW2i91mnvfcBgJPrdorzGaLSdIuoWzmoOoxiKUsYq2Dnh5D5MWv6UgrH_oEJOcbRpz2XvZR1bFQSOz1pnh-4QMvAdaOyq-URZLeUCfrkmq5F-llJ_9Z7tHN-SB003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BRi8m4DqZSOUtBaAY_orfqvy44g95h8qpJQmudiYU5BLNww97wXLgGwc2rAN7xpTllZ-_fa6Kb-qc30V3mGaohoiZfANpX9oq2OOTPbocx_4OEUkk8ITAuZnDniZo9IQJ2zopjRnDY00LSCi5eVLAYz4K-j1BP0MtWeLLJbRpMK9BHLXuqoZ_ZjoeqgkcCQx4dIkDeuCvlP7bDldtzQvmOrm1Khg2viWJ24DXoxv6NAP9zD4ewdDC4gECucDFFSCg41wCF7ORU6ev6E4OGKKzORP7u7Ein5ZpyKTu2g4ZlCGTQ_9uPVyxcIkdIjh7t3dtM-qhdc99cdtnV-r7vjU7VjVArgcPvveiIJnErhQUu-x9QqgksDto1m00__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
