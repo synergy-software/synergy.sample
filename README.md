@@ -53,7 +53,7 @@ including software architecture, coding practices, project management, and devel
 -->
 ![keywords mind map](https://www.plantuml.com/plantuml/png/V911JWCn34NtbNe7hndD7LfH2P1QgQ85bfN9MDDeaXZPdaNFne8ZSGMIJ4UK3Rlals_xsz-VNoir58i-TH4_belbuWuEbqJINs377Kc2jRYpDt8s2XL3sy9Us95gURSdU2LHpmdkEPbmoFLg52lCzC7RrVUaEXAOe1j8Rl3Z-3wntB2sFpA7kVd4VpzmPXvck0-Ox6MtBNLD0njsOwHaQ3bEKPfJqHJMciDrEVqaUUm5emBESgt-ksTrtagm8UVhdblk_-NFv5Ywg-KDm-1J3pfG8CkqJ5jHFlTyyXy0003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
 
-## Online series
+## Online video series
 
 * ▶️ [Synergy Software Architecture YouTube Channel](https://www.youtube.com/channel/UCTildHeLP4HoQVexsdrrHLA)
   * ▶️ [GitHub Repository Setup](https://www.youtube.com/watch?v=1xpCQnlqwFE) (5:20)
@@ -64,4 +64,4 @@ including software architecture, coding practices, project management, and devel
   * ▶️ [Adopt PlantUML as the Primary Diagramming Engine](https://youtu.be/x99410rf_nE) (7:26)
   * ▶️ [Embed PlantUML diagrams in markdown](https://youtu.be/i2aXJNo7owo) (9:09)
   * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
-  * * [//]: # (TODO Add video link here)
+  * ▶️ [Follow Walking Skeleton Approach](https://youtu.be/xYyhNfAkV-A) (6:44)

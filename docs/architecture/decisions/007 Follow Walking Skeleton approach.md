@@ -44,4 +44,4 @@ We propose to adopt the Walking Skeleton approach for our upcoming development p
 
 ## References
 
-* [//]: # (TODO Add video link here)
+* ▶️ [S01E08 Follow Walking Skeleton Approach - Modern Software Architecture](https://youtu.be/xYyhNfAkV-A) (6:44)
