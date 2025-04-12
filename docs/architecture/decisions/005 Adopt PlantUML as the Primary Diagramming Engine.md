@@ -2,7 +2,7 @@
 ![Docs as Code](https://img.shields.io/badge/Docs_as_Code-blue)
 ![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
-Date: 2023-03-16
+Date: 2023-03-16 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 

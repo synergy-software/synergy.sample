@@ -2,7 +2,7 @@
 ![SDLC](https://img.shields.io/badge/SDLC-orange) 
 ![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
-Date: 2025-03-08
+Date: 2025-03-08 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 
