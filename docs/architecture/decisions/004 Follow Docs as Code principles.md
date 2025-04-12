@@ -1,7 +1,7 @@
 ﻿# 004. Follow Docs as Code practices
 ![Docs as Code](https://img.shields.io/badge/Docs_as_Code-blue)
 
-Date: 2025-03-10
+Date: 2025-03-10 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 

@@ -2,7 +2,7 @@
 ![Development](https://img.shields.io/badge/Development-lightgreen)
 ![Toolbox](https://img.shields.io/badge/Toolbox-brown)
 
-Date: 2025-03-21
+Date: 2025-03-21 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 

@@ -2,7 +2,7 @@
 ![SDLC](https://img.shields.io/badge/SDLC-orange)
 ![Architecture](https://img.shields.io/badge/Architecture-darkviolet)
 
-Date: 2025-03-31
+Date: 2025-03-31 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 
