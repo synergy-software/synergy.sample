@@ -22,6 +22,7 @@ don't hesitate to share them with us.
 
 * [001 Record Architecture Decisions](decisions/001%20Record%20Architecture%20Decisions.md)
 * [007 Follow Walking Skeleton Approach](decisions/007%20Follow%20Walking%20Skeleton%20approach.md)
+* [008 Adopt C4 Architecture Model](decisions/008%20Adopt%20C4%20Model%20for%20Software%20Architecture%20Design.md)
 
 ### DOCUMENTATION
 
@@ -54,8 +55,9 @@ don't hesitate to share them with us.
 ++ Architecture
 +++ ADR 001 Record Architecture Decisions
 +++ ADR 007 Follow Walking Skeleton Approach
++++ ADR 008 Adopt C4 Architecture Model
 
 @endwbs
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R55BRi8m4DqZSOUtBaAY_orfqvy44g95h8qpJQmudiYU5BLNww97wXLgGwc2rAN7xpTllZ-_fa6Kb-qc30V3mGaohoiZfANpX9oq2OOTPbocx_4OEUkk8ITAuZnDniZo9IQJ2zopjRnDY00LSCi5eVLAYz4K-j1BP0MtWeLLJbRpMK9BHLXuqoZ_ZjoeqgkcCQx4dIkDeuCvlP7bDldtzQvmOrm1Khg2viWJ24DXoxv6NAP9zD4ewdDC4gECucDFFSCg41wCF7ORU6ev6E4OGKKzORP7u7Ein5ZpyKTu2g4ZlCGTQ_9uPVyxcIkdIjh7t3dtM-qhdc99cdtnV-r7vjU7VjVArgcPvveiIJnErhQUu-x9QqgksDto1m00__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R579JiCm4BrNwZ-yCrMb0cKv4XesgPMgGiNPTORKYkE9x0aL_1e7FebVmEw2KecZns-RDpzVtpT1b9VDAlHx_Tu9Cg_NHaXBwmavQHCCEqovJD_38NBMRKrEbCHvcWoHvGkCHcFSixMyIOW05J3XWj1ufSLe2bte1RA26y7SAYVBsJIXPKsOUrCh_u7SgDAhkZQkn9qhZQE3ERsJvIRvT_KkSMjS0L9w3SsH9n26mePzXRXCdUY3GTJdc2H66SJ7Zdg6PI0y67biL_3KS332COAAUi9iZy3dM8gnvlEFy1H2ItY9ErRaySP-FvaffqhQnTmwTrljAfvYGPfzyN_jH-PNXtvVbQrICyyLMP9udAnfFCVTk-ZhVSMJyR7qB1x5fb0tv8hjqNy1003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
