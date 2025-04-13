@@ -47,11 +47,12 @@ including software architecture, coding practices, project management, and devel
 +++_ Architecture Decision Log
 +++_ Architecture Decision Record
 +++_ Walking skeleton 
++++_ C4 Architecture Model
 
 @endmindmap
 ```
 -->
-![keywords mind map](https://www.plantuml.com/plantuml/png/V911JWCn34NtbNe7hndD7LfH2P1QgQ85bfN9MDDeaXZPdaNFne8ZSGMIJ4UK3Rlals_xsz-VNoir58i-TH4_belbuWuEbqJINs377Kc2jRYpDt8s2XL3sy9Us95gURSdU2LHpmdkEPbmoFLg52lCzC7RrVUaEXAOe1j8Rl3Z-3wntB2sFpA7kVd4VpzmPXvck0-Ox6MtBNLD0njsOwHaQ3bEKPfJqHJMciDrEVqaUUm5emBESgt-ksTrtagm8UVhdblk_-NFv5Ywg-KDm-1J3pfG8CkqJ5jHFlTyyXy0003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
+![keywords mind map](https://www.plantuml.com/plantuml/png/V95DQWCn38NtWTn1wmwpwm4I4cWB2OJqRnbKZvYOiQqYQHOvMnSzKgzGUtveikdEVjzxvidw-VfUgQ5OzAc9-BbSB1Tty7n99Eq5zjoG95YBEtiZPxrGCTGr78GTgPPpVO8t4lMSOCF9X4FEgr4SOAOFtYRVasfFO8Ak8xd2Z_t7o7Hw_eKvp8-F_Ey2P-PkXeU0oLxtkvAhAjYowoCbGyjrYbATYgQmrbokoUr7oMCh61LmbeVqxPo3yrg2BJa_pBdZzbz-9CVIJ9Pt39rFBMX7WIpJIT_StwRBPuVIP4Lv5VCwVW400F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Online video series
 
@@ -65,3 +66,4 @@ including software architecture, coding practices, project management, and devel
   * ▶️ [Embed PlantUML diagrams in markdown](https://youtu.be/i2aXJNo7owo) (9:09)
   * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
   * ▶️ [Follow Walking Skeleton Approach](https://youtu.be/xYyhNfAkV-A) (6:44)
+  * [//]: # (TODO Add link to the video)
