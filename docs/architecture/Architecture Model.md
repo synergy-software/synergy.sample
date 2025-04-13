@@ -1,4 +1,4 @@
-﻿# Architecture C4 Model
+# Architecture C4 Model
 
 This architecture model is based on the [C4 model](https://c4model.com/) for visualizing the architecture of software systems.
 
