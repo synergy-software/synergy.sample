@@ -66,4 +66,4 @@ including software architecture, coding practices, project management, and devel
   * ▶️ [Embed PlantUML diagrams in markdown](https://youtu.be/i2aXJNo7owo) (9:09)
   * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
   * ▶️ [Follow Walking Skeleton Approach](https://youtu.be/xYyhNfAkV-A) (6:44)
-  * [//]: # (TODO Add link to the video)
+  * ▶️ [Adopt C4 Architecture Model](https://youtu.be/3HncZiD_29o) (9:06)

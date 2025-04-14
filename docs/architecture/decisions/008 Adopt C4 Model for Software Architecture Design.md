@@ -38,7 +38,7 @@ The current model is kept in the [Architecture Model](../../architecture/Archite
 
 ## References
 
+* ▶️ [S01E09 Adopt C4 Architecture Model - Modern Software Architecture](https://youtu.be/3HncZiD_29o) (9:06)
 * [C4 Model](https://c4model.com/)
 * [C4 Sample with PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md)
 * [Architecture Model](../../architecture/Architecture%20Model.md)
-* [//]: # (TODO Add link to the video)
