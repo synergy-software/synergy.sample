@@ -67,7 +67,7 @@ Moreover, the team should use set of well known and common #hashtags in the bran
 @endmindmap
 ```
 -->
-![diagram](https://www.plantuml.com/plantuml/png/R9B1JiCm38RlI7i7Ixi0NQK9hWWDmO4R9quJGbxYjf6Qk8fTjZqR1nw9Lo3fjh8AJati___pnSttvzTA5ADw5wp7RdPn3Sye3IZMChieYlNy9MAewGtkNelbykRslYBKFb9k5k_m086sS5PRppUHj-5Nl-dhKPlMKBdTGTUwkj4w4fs9BHivgf_Oz9w2eZeEmA7TWsaoIXAKvUY8LA5HZhbOvZCCMpegGHlK1EYqePWF9W4S8097G6lpTcG_2rKIFGLQwq8DtedaR-u89BVX6Cbehj7EYOxDIT2cTwqz9ZqUw0zGM5N9dTQKU986P2zAVc8sBM7eqp_vQxUShZ19yKcR6RWQjiCKBhUDKogbGqCBg3Xwr0ow6AyZv5rfkEKW2o0rLnE0Zk9W2cOOp__ZTRwB_9709keLfVTqUbC_0000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Hashtags for commit messages](https://www.plantuml.com/plantuml/png/R9B1JiCm38RlI7i7Ixi0NQK9hWWDmO4R9quJGbxYjf6Qk8fTjZqR1nw9Lo3fjh8AJati___pnSttvzTA5ADw5wp7RdPn3Sye3IZMChieYlNy9MAewGtkNelbykRslYBKFb9k5k_m086sS5PRppUHj-5Nl-dhKPlMKBdTGTUwkj4w4fs9BHivgf_Oz9w2eZeEmA7TWsaoIXAKvUY8LA5HZhbOvZCCMpegGHlK1EYqePWF9W4S8097G6lpTcG_2rKIFGLQwq8DtedaR-u89BVX6Cbehj7EYOxDIT2cTwqz9ZqUw0zGM5N9dTQKU986P2zAVc8sBM7eqp_vQxUShZ19yKcR6RWQjiCKBhUDKogbGqCBg3Xwr0ow6AyZv5rfkEKW2o0rLnE0Zk9W2cOOp__ZTRwB_9709keLfVTqUbC_0000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Consequences
 
