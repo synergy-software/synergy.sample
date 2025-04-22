@@ -57,7 +57,7 @@ just insert such comment (sample below) and run [Docs.cs](../../src/Docs.cs) tes
 @endjson
 ```
 -->
-![diagram](https://www.plantuml.com/plantuml/png/UhzxlqDnIM9HILPnVXulLpKlbr9QKMbcYPALacD1GKwgaWvGf3YpAXKeu9DOb0uHICxFoIzIibA8LWfAJL7IKL1oBqfDpLEAvUMgvULoICrBWPW60000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Plantuml embedding sample](https://www.plantuml.com/plantuml/png/UhzxlqDnIM9HILPnVXulLpKlbr9QKMbcYPALacD1GKwgaWvGf3YpAXKeu9DOb0uHICxFoIzIibA8LWfAJL7IKL1oBqfDpLEAvUMgvULoICrBWPW60000__y30000) <!-- ← Generated image link. Do NOT modify it manually. -->
 ````
 
 ## References
