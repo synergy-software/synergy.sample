@@ -20,7 +20,7 @@ including software architecture, coding practices, project management, and devel
 > Docs as Code | PlantUML | Diagrams as Code |
 > Version Control System | Git | GitHub | Git hooks |
 > Issue tracker | GitHub Issue Tracker |
-> Walking skeleton |
+> Walking skeleton | C4 Architecture Model
 
 <!--
 ```plantuml
