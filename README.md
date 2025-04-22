@@ -26,6 +26,8 @@ including software architecture, coding practices, project management, and devel
 ```plantuml
 @startmindmap
 
+title Keywords mind map
+
 * Synergy Modern Architecture
 
 -- Process
@@ -52,7 +54,7 @@ including software architecture, coding practices, project management, and devel
 @endmindmap
 ```
 -->
-![keywords mind map](https://www.plantuml.com/plantuml/png/V95DQWCn38NtWTn1wmwpwm4I4cWB2OJqRnbKZvYOiQqYQHOvMnSzKgzGUtveikdEVjzxvidw-VfUgQ5OzAc9-BbSB1Tty7n99Eq5zjoG95YBEtiZPxrGCTGr78GTgPPpVO8t4lMSOCF9X4FEgr4SOAOFtYRVasfFO8Ak8xd2Z_t7o7Hw_eKvp8-F_Ey2P-PkXeU0oLxtkvAhAjYowoCbGyjrYbATYgQmrbokoUr7oMCh61LmbeVqxPo3yrg2BJa_pBdZzbz-9CVIJ9Pt39rFBMX7WIpJIT_StwRBPuVIP4Lv5VCwVW400F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
+![keywords mind map](https://www.plantuml.com/plantuml/png/V95DQWCn38NtWTn1wmwpwm4I4cXB4mZzNGRN8oPcR2j86igShOiUgLUeFUEXoQOx-trFuadw-VfUYHhMu68Jp7cvM2xKgKTunE6Jk17810gwWUSX8hS3xAb1Zh1cUtAALdl6RAXhE31P5Cdl-WXloE8emeQYClbKBufXX8dUEIs-1v4UGTdO3la2t_SV4vFI_eN8pyqd_lU14r4tmuCtKL_tkrnNLR0bsmUCQZJ5oKfrp9h0MbAu9gMV96TQDa70pF9OVJtdwBoKO8lMZNFkgFsNFw5DMosMT-Cx5rkG3ZrgeaNVt5vNvsNxd6I5wKhpfNu1003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Online video series
 

@@ -39,6 +39,8 @@ don't hesitate to share them with us.
 ```plantuml
 @startwbs
 
+title Architecture Decisions Break Structure
+
 * Architecture Decision Log
 
 -- Development
@@ -60,4 +62,4 @@ don't hesitate to share them with us.
 @endwbs
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/R97TJW9138NlINY7Naj8KF7daXNyIo0XAF6wpDPbihFJJQShqLVpmaVo5Pn1CBk9bzCvvsjx-ltvDGcAehjDwFVwlHF8n6ojaj5626PaRB3iOSv5-XuEO-cD7DSLUKtl8MIp5On6bt1ZVGw4PWk6gyegA0F2ZgM4oAkETZPDyg96R1imXZjsZdT94G03J3adg0MDMaEXBRs0BETQOUdGwtenJshT4Yp5LYZlCBDO2COPV06tlh2U3isNmX7LOPt1EX3SMtreDY1KSx3AaO5n6MLs7V4vhDKw-_5dU0oX8NYEGvOayCfog2pGOq6_6VLxWq4drJRn55PaMFB_Ou_D1ycybruT0tf1LwRLdafofF4uMLqBn-3Rwkj3HjDn5xs8gReqr8HylZ_w3m000F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/T9BTJW9138NlINY7Naj8KF7daWNyIo0X8F6wpDPbihFJJQShqLVpmaVo5PnPnK2YbzD-vwGzdS_tZr5G5DrjGhVJxQXLHv29sLebeuqGJCdOODa760jX2IkLfkqa_kHl5cPSf7Q_7qilvBYko6jwzo6RBc4mk8InzJaGcYqOhYghe0m8EvOIeb-rbxDfaXOrsXuQ3E6MdUDT8W9WW0dd1BMWKMie7A8NaELSAomSUbtFPudMBS52R8No2bEBXM2SmHTmumlhszMYV24ShOwypc0T2EwitZSR4AevMENeWN4PPNP7y3cirJhxzYju2A4XU8n3bYJmpF9JcQF7WhupwdPwlQDK3nrFOKc69V_dH4aRnIrwjG_e2LsPLbkLv4ZZSRAw5ex17zBNFnbDXiVMyvYgIqEDoEVj9_a2003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
