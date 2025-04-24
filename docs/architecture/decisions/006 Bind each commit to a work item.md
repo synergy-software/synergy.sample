@@ -83,4 +83,4 @@ Moreover, the team should use set of well known and common #hashtags in the bran
 ## References
 
 * ▶️ [S01E07 Bind every commit in the repository to a work item - Modern Software Architecture](https://youtu.be/-6X551gnXR0) (10:43)
-* Alternatively we could use conventional commits - https://www.conventionalcommits.org
+* 📖 Alternatively we could use conventional commits - https://www.conventionalcommits.org
