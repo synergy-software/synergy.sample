@@ -1,7 +1,7 @@
 ﻿# 009. Document and follow Software Development Lifecycle (SDLC)
 ![SDLC](https://img.shields.io/badge/SDLC-orange)
 
-Date: 2025-05-12  | version: 1.0 | Accepted by Marcin Celej (Software Architect)
+Date: 2025-05-12 | version: 1.0 | Accepted by Marcin Celej (Software Architect)
 
 ## Status
 
