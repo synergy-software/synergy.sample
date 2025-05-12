@@ -17,6 +17,7 @@ don't hesitate to share them with us.
 
 * [002 Use GitHub repository and tools](decisions/002%20Use%20GitHub%20repository%20and%20tools.md)
 * [003 Utilize GitHub issue tracker](decisions/003%20Utilize%20GitHub%20issue%20tracker.md)
+* [009 Follow Software Development Lifecycle](decisions/009%20Follow%20SDLC.md)
 
 ### ARCHITECTURE
 
@@ -53,6 +54,7 @@ title Architecture Decisions Break Structure
 -- Process
 --- ADR 002 Use GitHub repository and tools
 --- ADR 003 Utilize GitHub Issue Tracker for Issue Management
+--- ADR 009 Follow Software Development Lifecycle
 
 ++ Architecture
 --- ADR 001 Record Architecture Decisions
@@ -62,4 +64,4 @@ title Architecture Decisions Break Structure
 @endwbs
 ```
 -->
-![Architecture Decision Log](https://www.plantuml.com/plantuml/png/T9BTJW9138NlINY7Naj8KF7daWNyIo0X8F6wpDPbihFJJQShqLVpmaVo5PnPnK2YbzD-vwGzdS_tZr5G5DrjGhVJxQXLHv29sLebeuqGJCdOODa760jX2IkLfkqa_kHl5cPSf7Q_7qilvBYko6jwzo6RBc4mk8InzJaGcYqOhYghe0m8EvOIeb-rbxDfaXOrsXuQ3E6MdUDT8W9WW0dd1BMWKMie7A8NaELSAomSUbtFPudMBS52R8No2bEBXM2SmHTmumlhszMYV24ShOwypc0T2EwitZSR4AevMENeWN4PPNP7y3cirJhxzYju2A4XU8n3bYJmpF9JcQF7WhupwdPwlQDK3nrFOKc69V_dH4aRnIrwjG_e2LsPLbkLv4ZZSRAw5ex17zBNFnbDXiVMyvYgIqEDoEVj9_a2003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
+![Architecture Decision Log](https://www.plantuml.com/plantuml/png/T5BBRi8m4BmZyGzxBaAYBNtT6g0l2IG4HJqRPmbM76-qtZIYlzP3Fwc_K3i25AhswFNCU7R6tvzVzruKIxtstKwt8qOiGi9wQmIrL8mmGMsy8UTXnAXoM0fNpKt4d_sDXIbbyRhV3wDtj5GMw2IU-v1C5Z0ONCF8k1HGwIreAWeZ80GAQk8SWbvne9Ek8bT9a6qB3E6HhAKw8Zme3sDA4KfMMen6tuPUGP9IAJ2toibgDeresIBCsHIATp0nAcCLFBWC7bncNBDQeC-PWjI9rWMiFCAJaUTg3OmbUICKD5HOHeZi2VWILcAi-JWINhol45w3oHmPDiJxoKmvbU7lZEuEAovf8xLgyZs62LEpGRtJjZ7RwvqKqLOvXmLgulIVLYCta1lepU71DsNpcCOoHuiI-apAaYbqrKRVxcCT3q-bPw486qtTeqkRV_K3003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
