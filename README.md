@@ -20,7 +20,8 @@ including software architecture, coding practices, project management, and devel
 > Docs as Code | PlantUML | Diagrams as Code |
 > Version Control System | Git | GitHub | Git hooks |
 > Issue tracker | GitHub Issue Tracker |
-> Walking skeleton | C4 Architecture Model
+> Walking skeleton | C4 Architecture Model |
+> Software Development Lifecycle (SDLC) | SDLC as Code |
 
 <!--
 ```plantuml
@@ -35,6 +36,8 @@ title Keywords mind map
 ----_ Git
 ---_ Issue tracker
 ----_ GitHub Issues
+---_ Software Development Lifecycle (SDLC)
+---_ SDLC as Code
 
 -- Tools
 ---_ GitHub
@@ -54,7 +57,7 @@ title Keywords mind map
 @endmindmap
 ```
 -->
-![keywords mind map](https://www.plantuml.com/plantuml/png/V95DQWCn38NtWTn1wmwpwm4I4cXB4mZzNGRN8oPcR2j86igShOiUgLUeFUEXoQOx-trFuadw-VfUYHhMu68Jp7cvM2xKgKTunE6Jk17810gwWUSX8hS3xAb1Zh1cUtAALdl6RAXhE31P5Cdl-WXloE8emeQYClbKBufXX8dUEIs-1v4UGTdO3la2t_SV4vFI_eN8pyqd_lU14r4tmuCtKL_tkrnNLR0bsmUCQZJ5oKfrp9h0MbAu9gMV96TQDa70pF9OVJtdwBoKO8lMZNFkgFsNFw5DMosMT-Cx5rkG3ZrgeaNVt5vNvsNxd6I5wKhpfNu1003__mC0) <!-- ← Generated image link. Do NOT modify it manually. -->
+![keywords mind map](https://www.plantuml.com/plantuml/png/V95BJiCm48RtbNg7MG9LTXoWLIf1HIfLXCUoCiuqjU9ugl64AcTZmP6u0dOIYtR3plw_Vzu_NzzBBugbDQvgrMa-cy_4Y4LumlvCN7c812Pq1sNlaEiUjbGXErYnFXf1BHrZD6GPx9WqUX_VsHxUaBqX1pavOR8XtWks0mpqmSZastZV8GWhtI1VuCVkOsGfOKa7EIj6MECdMZgrw0GASq3Twz3sJRakyjla3MzGFXIlKdSlH3Qb6jF_VU18r2Iuiyh9wxQ8SOi5h4btiPIIC4rK5lkeULYbzADaLCsgzPTLG_JrcWRdfHHcqMPOKq7rl_mPTJZAP7bNjZ6k1j-WHGbqqlFxw-XuAnixMM8uSZhqBm000F__0m00) <!-- ← Generated image link. Do NOT modify it manually. -->
 
 ## Online video series
 
@@ -69,3 +72,4 @@ title Keywords mind map
   * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
   * ▶️ [Follow Walking Skeleton Approach](https://youtu.be/xYyhNfAkV-A) (6:44)
   * ▶️ [Adopt C4 Architecture Model](https://youtu.be/3HncZiD_29o) (9:06)
+  * [//]: # (TODO Add video link here)
