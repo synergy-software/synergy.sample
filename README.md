@@ -5,7 +5,13 @@ Sample project to demonstrate modern architecture approach
 ## Architecture
 
 To familiarize yourself with the architectural concepts of this sample project, 
-check out the [Architecture Decision Log](docs/architecture/Architecture%20Decision%20Log.md)
+check out the:
+* [Architecture Decision Log](docs/architecture/Architecture%20Decision%20Log.md)
+* [Architecture Model](docs/architecture/Architecture%20Model.md)
+
+## Software Development Lifecycle (SDLC)
+
+When you are ready to start working on the project, read the [Software Development Lifecycle (SDLC)](docs/process/Development%20Process.md) document first.
 
 ## Keywords
 
