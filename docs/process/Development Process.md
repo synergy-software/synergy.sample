@@ -1,4 +1,6 @@
-# Software Development Process Lifecycle
+# Software Development Lifecycle
+
+Here you can find the description of the Software Development Lifecycle (SDLC) process used by Synergy Software team.
 
 ## Team
 
