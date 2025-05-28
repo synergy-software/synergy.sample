@@ -51,7 +51,7 @@ However, it requires continuous engagement from all team members and may lead to
 
 ## References
 
-* [//]: # (TODO Add video link here)
+* ▶️ [Follow SDLC Process](https://youtu.be/amfBqhDvcKE) (10:15)
 * 📕 [Development Process](../../process/Development%20Process.md)
 * ▶️ [Scrum Essentials in Under 10 Minutes](https://www.youtube.com/watch?v=RtQ3tpq-RuE&t=3s&ab_channel=ScrumAlliance) (10:15)
 * 📚 [The SCRUM Guide](https://scrumguides.org/scrum-guide.html)

@@ -78,4 +78,4 @@ title Keywords mind map
   * ▶️ [Bind every commit in the repository to a work item](https://youtu.be/-6X551gnXR0) (10:43)
   * ▶️ [Follow Walking Skeleton Approach](https://youtu.be/xYyhNfAkV-A) (6:44)
   * ▶️ [Adopt C4 Architecture Model](https://youtu.be/3HncZiD_29o) (9:06)
-  * [//]: # (TODO Add video link here)
+  * ▶️ [Follow SDLC Process](https://youtu.be/amfBqhDvcKE) (10:15)
